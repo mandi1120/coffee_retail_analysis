@@ -9,11 +9,9 @@
   
 ## Files:  
 - Data File: [Coffee.xlsx](Coffee.csv) from <a src="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
-- Tableau File: [x.twbx](x.twbx)  
-  
-## Screenshots:  
-  
-### Market Performance Dashboard:
+- Tableau File: 
+    
+## Market Performance Dashboard:
 - The Market Performance Dashboard can be filtered in various ways to allow users to gain insights into different aspects of performance.  
 - Data can be viewed at the market or state level, by market size (major or small), and by year.  
 - The following charts were used to visualize the data:  
@@ -25,7 +23,7 @@
   
 ![Market Performance](images/market_dashboard.png)  
   
-### Product Performance Dashboard:  
+## Product Performance Dashboard:  
 - The Product Performance Dashboard can be filtered in various ways to allow users to gain insights into different aspects of performance.
 - Data can be viewed at the market level, by year, product type, product, and caffeine content.  
 - The following types of charts were used to visualize the data:  
@@ -35,15 +33,13 @@
     
 ![Product Performance](images/product_dashboard.png)  
   
-### Executive Summary Storyboard:  
+## Executive Summary Storyboard:  
 - The Executive Summary outlines key insights into market and product performance gained from analyzing the data. 
 - The Storyboard tells the story of the company's performance by incorporating visuals from the dashboards, in addition to the following:
     - Sales by Market and State: Dual Layer Map
     - Cumulative Sales Year over Year: Table
 
-View the Storyboard Exported as a Presentation:  
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/story_slides.pptx]' width='100%' height='600px' frameborder='0'>
-
+View the Storyboard:  
 
 
 
