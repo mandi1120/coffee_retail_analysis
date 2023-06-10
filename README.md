@@ -8,7 +8,7 @@
 - I then analyzed 2013 performance and created an executive summary as a Tableau storyboard.   
   
 ## Files & Links:  
-- Data File: [Coffee.xlsx](Coffee.csv) from <a href="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
+- Data File: [Coffee.csv](Coffee.csv) from <a href="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
 - Tableau File: 
     
 ## Market Performance Dashboard:
@@ -37,7 +37,7 @@
 
 ## Executive Summary Storyboard:  
 - The Executive Summary outlines key insights into market and product performance gained from analyzing the data. 
-- The Storyboard tells the story of the company's performance by incorporating visuals from the dashboards, in addition to the following:
+- The Storyboard tells the story of the company's performance by incorporating charts from the dashboards, with the following supplemental visuals:
     - Sales by Market and State: Dual Layer Map
     - Cumulative Sales Year over Year: Table
 
