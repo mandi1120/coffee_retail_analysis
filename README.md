@@ -39,8 +39,17 @@
     - Sales by Market and State: Dual Layer Map
     - Cumulative Sales Year over Year: Table
 
-View the Storyboard:  
-
+<details>
+  <summary>View the Story:</summary><details>
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_1.png?raw=true" name="story1">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_2.png?raw=true" name="story2">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_3.png?raw=true" name="story3">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_4.png?raw=true" name="story4">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_5.png?raw=true" name="story5">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_6.png?raw=true" name="story6">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_7.png?raw=true" name="story7">
+  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_8.png?raw=true" name="story8">
+</details>
 
 
 <br/>  
