@@ -21,8 +21,9 @@
     - Sales vs Budget: Combination Chart
     - Sales vs Expenses: Area Chart
   
-![Market Performance](images/market_dashboard.png)  
-  
+|![Market Performance](images/market_dashboard.png)|
+|-|
+
 ## Product Performance Dashboard:  
 - The Product Performance Dashboard can be filtered in various ways to allow users to gain insights into different aspects of performance.
 - Data can be viewed at the market level, by year, product type, product, and caffeine content.  
@@ -31,25 +32,40 @@
     - Sales by Product Type: Treemap Chart
     - Product Inventory: Lollipop Chart
     
-![Product Performance](images/product_dashboard.png)  
-  
+|![Product Performance](images/product_dashboard.png)|  
+|-|
+
 ## Executive Summary Storyboard:  
 - The Executive Summary outlines key insights into market and product performance gained from analyzing the data. 
 - The Storyboard tells the story of the company's performance by incorporating visuals from the dashboards, in addition to the following:
     - Sales by Market and State: Dual Layer Map
     - Cumulative Sales Year over Year: Table
 
-<details>
-  <summary>View the Story:</summary><details>
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_1.png?raw=true" name="story1">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_2.png?raw=true" name="story2">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_3.png?raw=true" name="story3">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_4.png?raw=true" name="story4">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_5.png?raw=true" name="story5">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_6.png?raw=true" name="story6">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_7.png?raw=true" name="story7">
-  <img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_8.png?raw=true" name="story8">
-</details>
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_1.png?raw=true" name="story1" style="border: 1px solid black">|  
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_2.png?raw=true" name="story2" style="border: 1px solid black">|  
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_3.png?raw=true" name="story3" style="border: 1px solid black">|  
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_4.png?raw=true" name="story4" style="border: 1px solid black">|
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_5.png?raw=true" name="story5" style="border: 1px solid black">|
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_6.png?raw=true" name="story6" style="border: 1px solid black">|
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_7.png?raw=true" name="story7" style="border: 1px solid black">|
+|-|  
+
+|<img src="https://github.com/mandi1120/coffee_retail_analysis/blob/main/images/story_page_8.png?raw=true" name="story8" style="border: 1px solid black">|
+|-|  
+  
+
 
 
 <br/>  
