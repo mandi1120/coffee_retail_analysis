@@ -7,8 +7,8 @@
 - Acting as an analyst for The Bucks, I developed market and product performance dashboards for calendar years 2012 and 2013.  
 - I then analyzed 2013 performance and created an executive summary as a Tableau storyboard.   
   
-## Files:  
-- Data File: [Coffee.xlsx](Coffee.csv) from <a src="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
+## Files & Links:  
+- Data File: [Coffee.xlsx](Coffee.csv) from <a href="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
 - Tableau File: 
     
 ## Market Performance Dashboard:
