@@ -77,45 +77,46 @@
 |-|  
   
 ## Analysis & Data Story:
-To develop an analysis of The Bucks' performance, I thought up some questions (goals for analysis) that would be important to better understand the health of the company. I then analyzed the visualizations to determine key insights (story points) in response to these questions.  
+To develop an analysis of The Bucks' performance, I thought up some questions (goals for analysis) to better understand the health of the company. I then analyzed the visualizations to determine key insights (story points) in response to these questions and formed a narrative to tell the story of the company's performance.  
   
-Goal #1:  Which market had the highest sales in 2013?  
+**Goal #1:  Which market had the highest sales in 2013?**  
 Story:  
 - The West Market was #1 in sales for 2013 at $139k.  
 - The Central Market came in at #2 at $135k.  
 - The South Market had the lowest sales for the year with $53k.  
   
-Goal #2:  Which market had the highest profits in 2013?   
+**Goal #2:  Which market had the highest profits in 2013?**   
 Story:   
 - The Central Market earned the highest profits of $56k in 2013 despite being 2nd in overall sales.  
 - The West Market came in 2nd for profits with $44k.  
 - The South Market was last in profits at $19.  
   
-Goal #3:  How did sales compare against budget for the company as a whole in 2013?  
+**Goal #3:  How did sales compare against budget for the company as a whole in 2013?**  
 Story:   
 - Overall sales exceeded budgeted sales during every month of 2013.  
 - During July when budgeted sales were highest at around $34k, actual sales also hit their highest point for the year at $36.  
 - In October, budgeted sales were expected to drop to $29k, however actual sales held at $35k.  
   
-Goal #4:  How did sales compare against expenses for the company as a whole in 2013?  
+**Goal #4:  How did sales compare against expenses for the company as a whole in 2013?**  
 Story:  
 - Overall sales exceeded expenses during every month of 2013.  
 - Sales surpassed expenses by an average of $25k per month.
 - Expenses were budgeted around $10k for each month of the year, while sales held around $35k with a slight drop in May and November.  
     
-Goal #5:  Which products earned the most dollar sales in 2013?  
+**Goal #5:  Which products earned the most dollar sales in 2013?**  
 Story:  
 - The Espresso category led in sales making up 27% of total sales for the year, followed closely by Coffee products at 26%.
 - Colombian Coffee was the top selling individual product overall at $65k in sales.
 - Lemon Herbal Tea was the #2 individual product at $49k in sales.  
   
-Goal #6:  Which products earned the most profit in 2013?  
+**Goal #6:  Which products earned the most profit in 2013?** 
 Story:   
 - The Coffee product category earned the most profit in 2013 at $44k despite coming in #2 for total dollar sales.
 - Colombian Coffee was #1 in profits for individual products, earning $33k for the year.
 - Green Tea profits were slightly negative.  
    
-Given additional time and resources for analysis, some additional insights that may impact overall conclusions are as follows:  
+   
+To continue the analysis given additional time and resources, some additional insights that may impact overall conclusions are listed below:
 - What caused the higher dollar sales in the West Market? Is their pricing higher than other markets, or did they just sell more product?
 - How many units of each product were sold?
 - Do some products sell better during certain times of the year?
