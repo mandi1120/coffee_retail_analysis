@@ -77,7 +77,7 @@
 |-|  
   
 ## Analysis & Data Story:
-To develop an analysis of The Bucks' performance, I thought up some questions (goals for analysis) to better understand the health of the company. I then analyzed the visualizations to determine key insights (story points) in response to these questions and formed a narrative to tell the story of the company's performance.  
+To develop an analysis of The Bucks' performance, I formed some questions (goals for analysis) to better understand the health of the company. I then analyzed the visualizations to determine key insights (story points) in response to these questions and formed a narrative to tell the story of the company's performance.  
   
 **Goal #1:  Which market had the highest sales in 2013?**  
 Story:  
@@ -89,12 +89,12 @@ Story:
 Story:   
 - The Central Market earned the highest profits of $56k in 2013 despite being 2nd in overall sales.  
 - The West Market came in 2nd for profits with $44k.  
-- The South Market was last in profits at $19.  
+- The South Market was last in profits at $19k.  
   
 **Goal #3:  How did sales compare against budget for the company as a whole in 2013?**  
 Story:   
 - Overall sales exceeded budgeted sales during every month of 2013.  
-- During July when budgeted sales were highest at around $34k, actual sales also hit their highest point for the year at $36.  
+- During July when budgeted sales were highest at around $34k, actual sales also hit their highest point for the year at $36k.  
 - In October, budgeted sales were expected to drop to $29k, however actual sales held at $35k.  
   
 **Goal #4:  How did sales compare against expenses for the company as a whole in 2013?**  
@@ -109,7 +109,7 @@ Story:
 - Colombian Coffee was the top selling individual product overall at $65k in sales.
 - Lemon Herbal Tea was the #2 individual product at $49k in sales.  
   
-**Goal #6:  Which products earned the most profit in 2013?** 
+**Goal #6:  Which products earned the most profit in 2013?**  
 Story:   
 - The Coffee product category earned the most profit in 2013 at $44k despite coming in #2 for total dollar sales.
 - Colombian Coffee was #1 in profits for individual products, earning $33k for the year.
