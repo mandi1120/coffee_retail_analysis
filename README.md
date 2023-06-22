@@ -9,7 +9,7 @@
 
 ### Files & Links:  
 - Data File: [Coffee.csv](Coffee.csv) from <a href="https://www.kaggle.com/datasets/arjunbhaybhang/coffee-chains-dataset?select=Coffee.csv" target="_blank">kaggle.com</a>
-- Tableau File: 
+- Tableau File: <a href="https://public.tableau.com/views/Coffee_Retail_Sales/Story?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">view on Tableau Public</a>  
 
 ### Development Approach:
 - The data file from kaggle was already cleaned, so no additional cleaning steps were needed. 
@@ -115,12 +115,26 @@ Story:
 - Colombian Coffee was #1 in profits for individual products, earning $33k for the year.
 - Green Tea profits were slightly negative.  
    
-   
 To continue the analysis given additional time and resources, some additional insights that may impact overall conclusions are listed below:
 - What caused the higher dollar sales in the West Market? Is their pricing higher than other markets, or did they just sell more product?
 - How many units of each product were sold?
 - Do some products sell better during certain times of the year?
 - What is the average customer rating for each store?
+
+**Conclusions & Recommendations:**
+  
+Overall:  
+- The Bucks overall performance in 2013 was healthy.  
+- The company’s sales exceeded its expenses and its expected sales throughout the year.   
+  
+Market Performance:  
+- The West and Central markets led the company’s success.
+- The South and North markets provide opportunities for growth. 
+  
+Product Performance:  
+- When it comes to the company’s product offerings, Colombian Coffee was a standout bringing in $65k in sales and $33k in profits alone.  
+- Due to Green Tea’s negative profits, the company should **consider increasing the product’s selling price** to drive up its resulting profit margin.
+
 
 
 
